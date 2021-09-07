@@ -43,7 +43,7 @@ React, Typescript, Figma API, Adobe DSP
 
 ## 사이드 프로젝트
 
-### KLUE (2021.01~)
+### KLUE (2021.01~) | [link](https://klue.kr)
 
 고려대학교 강의평가 사이트 KLUE에서 프론트엔드 개발을 하고 있습니다.
 
@@ -59,6 +59,13 @@ React, Typescript, Nextjs
 ### 정보대학 방탈출 게임 (2021.05.19 ~ 08.06)
 
 여름방학 학생회 이벤트 용도로 개발하였습니다. 풀스택 개발을 맡았습니다. (**프론트 + 백엔드 1인** / 인프라 1인)
+
+React, Typescript, Nextjs, Nestjs, TypeORM, Terraform
+
+### hrmm voting (2021.08.23 ~ 08.28) | [link (server offline)](https://hrmm.xyz)
+
+학생회 반대표 선출을 위해 개발하였습니다. 추후 학생회 - 학생 연결 플랫폼으로의 개발을 위해, 범용성 있게 개발하였습니다.  
+풀스택 개발을 맡았습니다. (**프론트 + 백엔드 1인** / 인프라 1인)
 
 React, Typescript, Nextjs, Nestjs, TypeORM, Terraform
 
