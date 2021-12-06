@@ -31,7 +31,8 @@ React (Class + Function component), Redux, Typescript
 
 #### 뤼이드 튜터
 
-PC Web 서비스 개발 및 유지보수, 문제 풀이 로직 유지보수를 맡고 있습니다.
+PC Web 서비스 개발 및 유지보수, 문제 풀이 로직 유지보수를 맡고 있습니다.  
+실전 모의고사 웹뷰 개발을 진행했습니다.
 
 React, Typescript, Next.js, gRPC
 
