@@ -32,13 +32,14 @@ React (Class + Function component), Redux, Typescript
 #### 뤼이드 튜터
 
 PC Web 서비스 개발 및 유지보수, 문제 풀이 로직 유지보수를 맡고 있습니다.  
-추가로 B2B 세일즈용 대시보드, 실전 모의고사 웹뷰 개발을 진행했습니다.
+추가로 B2B 세일즈용 대시보드, 실전 모의고사 웹뷰 + PC Web 개발을 진행했습니다.
 
 React, Typescript, Next.js, gRPC
 
 #### 디자인 시스템
 
-뤼이드의 모든 웹 프로덕트에서 사용하는 디자인 토큰, 컴포넌트를 관리합니다.
+뤼이드의 모든 웹 프로덕트에서 사용하는 디자인 토큰, 컴포넌트를 관리합니다.  
+Typography 속성, 색상, 이미지 에셋들을 피그마 파일로부터 읽어와 패키지를 구성합니다.
 
 React, Typescript, Figma API, Adobe DSP
 
@@ -55,7 +56,7 @@ React, Typescript, MobX
 학생회 임원 선출을 위해 개발하였습니다. 프론트엔드 개발을 맡았습니다. (**프론트 1인** / 백엔드 1인)  
 통계 및 계정 정보 관리를 위한 어드민 페이지까지 개발하였습니다.
 
-React, Typescript, Nextjs
+React, Typescript, Next.js
 
 ### 정보대학 방탈출 게임 (2021.05.19 ~ 08.06)
 
