@@ -12,9 +12,9 @@
 ## 기술
 
 프론트엔드에는 Javascript(+Typescript), React, React Query, Nextjs를 사용하여 개발합니다.  
-백엔드에는 Nodejs(+Typescript), Nestjs, TypeORM, MySQL을 사용합니다.  
+백엔드에는 Nodejs(+Typescript), Nest.js, TypeORM, MySQL을 사용합니다.  
 스크립트, 오픈소스 개발은 Typescript로 합니다.  
-요즘은 Elixir, React Native, Supabase과 같은 기술에 관심이 있습니다.
+요즘은 React Native, Terraform을 취미로 다루고 있습니다.
 
 ## 경력
 
