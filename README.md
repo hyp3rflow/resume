@@ -2,25 +2,33 @@
 
 웹과 관련된 기술을 다루는 소프트웨어 엔지니어입니다.  
 
-새로운 시도는 어느 상황에서나 가치있다고 여기며, 유저의 반응을 쉽게 접할 수 있는 제품을 만드는 것을 선호합니다.  
-특히 동료들과 함께 성장하며 생산성을 높일 수 있는 방법과 유틸리티를 고안하는 것에 관심이 있습니다.
+기술적으로나 방법론적으로나 새로운 시도를 해보는 것을 좋아합니다.
+요즘은 개발 생산성을 높일 수 있는 방법들을 고안하는 것에 관심이 있습니다.
 
 ## 기술
 
 프론트엔드에는 TypeScript, Next.js를 사용하여 개발합니다.  
-백엔드에는 Node, Nest.js (or Fastify), TypeORM, PostgreSQL을 사용합니다.  
+백엔드에는 Node, Nest.js, TypeORM, PostgreSQL을 사용합니다.  
 스크립트, 오픈소스 개발은 Deno, Golang, Rust를 사용합니다.  
-Terraform (AWS), Expo (React Native), Google Firebase, Electron, Golang, Rust 등을 다룰 수 있습니다.
+Terraform (AWS), Expo (React Native), Google Firebase, Supabase, Electron, Golang, Rust 등을 다룰 수 있습니다.
 
-## 경력
+## 이력
 
 ### Riiid (2021.03~)
 
 산업기능요원 보충역으로 복무 중입니다.  
-주로 B2C 제품인 산타의 개발을 진행했으며 디자인 시스템, 문제풀이 등 다양한 기능의 개발을 맡았습니다.  
-현재는 Engineering Platform 팀의 Common System 소속으로, pbkit 관련 프로젝트를 전담하고 있습니다.
+1년동안 B2C 제품인 산타의 개발을 진행했으며 문제풀이와 같은 복잡한 상태를 갖는 기능을 구현하고, 디자인 시스템 등 프로덕트를 위한 프로젝트도 맡았습니다.  
+현재는 Engineering Platform 팀의 Developer Experience 셀 소속으로, 개발 경험과 관련된 프로젝트를 전담하고 있습니다.
 
-#### 산타토익 (개편 런칭 이전)
+#### Developer Experience Engineer (2022~)
+
+[pbkit](https://github.com/pbkit/pbkit), [vscode-pbkit](https://github.com/pbkit/vscode-pbkit), [pbkit-devtools](https://github.com/pbkit/pbkit-devtools), [urichk](https://github.com/riiid/urichk)와 같은 사내에서 주로 사용하는 개발 생산성 프로덕트들을 개발 중입니다.  
+클라이언트에서 protobuf를 이용해 schema-first 개발을 쉽게 할 수 있도록 [pbkit](https://github.com/pbkit)을 만들고, 사내에서 사용 중에 있습니다.  
+또한 가능한 웹뷰 uri나 deeplink를 미리 schema로 등록하고 안전한 개발을 할 수 있게 돕는 [urichk](https://github.com/riiid/urichk)도 개발합니다.  
+오픈소스 개발을 하며 겪는 문제점들은 빠르게 직접 고쳐 사용합니다. 빠른 코드리딩으로 낯선 프로젝트나 언어라도 상관없습니다.  
+(denoland/node_deno_shims [#92](https://github.com/denoland/node_deno_shims/pull/92), [#95](https://github.com/denoland/node_deno_shims/pull/95), [#98](https://github.com/denoland/node_deno_shims/pull/98), denoland/dnt [#141](https://github.com/denoland/dnt/pull/141), [#144](https://github.com/denoland/dnt/pull/144))
+
+#### 산타토익 (개편 런칭 이전)  
 
 서비스 종료 후 학습 / 구매 내역 부분을 변경하였습니다.
 
