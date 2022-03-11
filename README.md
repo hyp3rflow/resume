@@ -18,7 +18,7 @@ Terraform (AWS), Expo (React Native), Google Firebase, Supabase, Electron, Golan
 
 산업기능요원 보충역으로 복무 중입니다.  
 1년동안 B2C 제품인 산타의 개발을 진행했으며 문제풀이와 같은 복잡한 상태를 갖는 기능을 구현하고, 디자인 시스템 등 프로덕트를 위한 프로젝트도 맡았습니다.  
-현재는 Engineering Platform 팀의 Developer Experience 셀 소속으로, 개발 경험과 관련된 프로젝트를 전담하고 있습니다.
+현재는 Engineering Platform 팀의 Developer Experience 셀 소속으로, 개발 경험과 관련된 프로젝트를 개발하고 있습니다.
 
 #### Developer Experience Engineer (2022~)
 
