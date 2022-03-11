@@ -2,7 +2,7 @@
 
 웹과 관련된 기술을 다루는 소프트웨어 엔지니어입니다.  
 
-기술적으로나 방법론적으로나 새로운 시도를 해보는 것을 좋아합니다.
+기술적으로나 방법론적으로나 새로운 시도를 해보는 것을 좋아합니다.  
 요즘은 개발 생산성을 높일 수 있는 방법들을 고안하는 것에 관심이 있습니다.
 
 ## 기술
@@ -78,5 +78,6 @@ React, Typescript, Nextjs, Nestjs, TypeORM, Terraform
 React, Typescript, Nextjs, Nestjs, TypeORM, Terraform
 
 ## 그 외
+2019 ~ 현재(2022)까지 다수의 동아리를 운영하고, 학생회 임원으로 겸직했습니다.  
 
-github-readme-solvedac, tart, bser-discord-bot 등의 repo가 있긴 하지만, 기술 공부 목적에 가까워 높은 수준의 코드 퀄리티를 보여주지는 않습니다. 다양한 것을 만드는 데에 관심이 있다 정도만 알아주세요 :smile:
+github-readme-solvedac, tart, bser-discord-bot 등의 repo가 있긴 하지만, 기술 공부 목적에 가까워 높은 수준의 코드 퀄리티를 보여주지는 않습니다. 또한 많은 개인 프로젝트가 개발 중단되었습니다.
