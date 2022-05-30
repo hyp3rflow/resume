@@ -1,9 +1,6 @@
 ## 최용욱, Yongwook Choi
 
-웹과 관련된 기술을 다루는 소프트웨어 엔지니어입니다.  
-
-기술적으로나 방법론적으로나 새로운 시도를 해보는 것을 좋아합니다.  
-요즘은 개발 생산성을 높일 수 있는 방법들을 고안하는 것에 관심이 있습니다.
+웹과 관련된 기술을 다루는 소프트웨어 엔지니어입니다. 무언가를 빠른 속도로 만드는 것을 좋아합니다.  
 
 ## 기술
 
@@ -17,8 +14,8 @@ Terraform (AWS), Expo (React Native), Google Firebase, Supabase, Electron, Golan
 ### Riiid (2021.03~)
 
 산업기능요원 보충역으로 복무 중입니다.  
-1년동안 B2C 제품인 산타의 개발을 진행했으며 문제풀이와 같은 복잡한 상태를 갖는 기능을 구현하고, 디자인 시스템 등 프로덕트를 위한 프로젝트도 맡았습니다.  
-현재는 Engineering Platform 팀의 Developer Experience 셀 소속으로, 개발 경험과 관련된 프로젝트를 개발하고 있습니다.
+현재는 Engineering Platform 팀의 Developer Experience 셀 소속으로, 개발 경험과 관련된 프로젝트를 개발하고 있습니다.\
+첫 1년동안 B2C 제품인 산타의 개발을 진행했으며 문제풀이와 같은 복잡한 상태를 갖는 기능을 구현하고, 디자인 시스템 등 프로덕트를 위한 프로젝트도 맡았습니다.\
 
 #### Developer Experience Engineer (2022~)
 
