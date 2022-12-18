@@ -5,7 +5,7 @@ TypeScript를 자주 다루며 약간의 Swift, Rust, Kotlin, Go, C++ 경험이 
 
 ## 이력
 
-### Riiid (2021.03~)
+### Riiid (2021.03~2022.10)
 
 #### Developer Experience Engineer (2022~)
 
