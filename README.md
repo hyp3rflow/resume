@@ -5,6 +5,14 @@ TypeScript를 자주 다루며 약간의 Swift, Rust, Kotlin, Go, C++ 경험이 
 
 ## 이력
 
+### PortOne (2022.11~2023.02)
+
+#### Developer Experience Engineer
+
+[iamport-react-native](https://github.com/iamport/iamport-react-native), [iamport_flutter](https://github.com/iamport/iamport_flutter), [iamport-ios](https://github.com/iamport/iamport-ios)의 간단한 유지보수를 맡았습니다. \
+[PortOne 리뉴얼 랜딩 페이지](https://portone.io)의 작업에 참여하였습니다. \
+V2 API의 스키마 리뷰에 참여하였으며, OpenAPI 파일을 통해 문서를 렌더링하는 개발자센터의 초기 버전의 작업을 진행했습니다.
+
 ### Riiid (2021.03~2022.10)
 
 #### Developer Experience Engineer (2022~)
