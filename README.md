@@ -9,6 +9,10 @@ TypeScript를 자주 다루며 약간의 Swift, Rust, Kotlin, Go, C++ 경험이 
 
 ## 이력
 
+### Prex (2024.10~)
+
+#### Frontend Engineer
+
 ### PortOne (2022.11~2023.02)
 
 #### Developer Experience Engineer
